@@ -1,0 +1,59 @@
+.bg {
+   background-image: url(img/128-106.jpg);
+   background-repeat: repeat;
+}
+
+.container {
+   background-color: white;
+   max-width: 1000px;
+   border-radius: 10px;
+}
+
+.photo {
+   width: 250;
+   max-width: 200px;
+   /* -10px to account for bootstrap's -15px */
+   margin: 5px -10px 10px 10px;
+}
+
+hr {
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+
+.personality-summary {
+   margin-top: 20px;
+   font-style: italic;
+}
+
+.experience-entry {
+
+}
+
+.company span {
+   text-decoration: underline;
+}
+
+.location, li, .selected-projects {
+   font-size: 10.5pt;
+}
+
+.location {
+}
+
+.synopsis {
+   font-size: 10pt;
+   font-style: italic;
+}
+
+.experience-entry li {
+}
+
+.selected-projects {
+   font-weight: bold;
+   margin-top: 10px;
+}
+
+.footer {
+   font-size: 9pt;
+}
