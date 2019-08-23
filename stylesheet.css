@@ -1,6 +1,14 @@
 .bg {
-   background-image: url(img/128-106.jpg);
+   background-image: url(img/128-106.jpg); /* credit: bgrepeat.com */;
    background-repeat: repeat;
+}
+
+body {
+   font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: 'Roboto', ;
 }
 
 .container {
@@ -50,7 +58,6 @@ hr {
 }
 
 .selected-projects {
-   font-weight: bold;
    margin-top: 10px;
 }
 
